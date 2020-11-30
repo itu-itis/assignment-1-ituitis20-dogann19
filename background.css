@@ -146,13 +146,13 @@ border-collapse: collapse;
 th, td {
 font-family: sans-serif;
 font-size: 25px;
-padding: 10px;
+padding: 5px;
 text-align: center;
 }
 
 th {
-padding-bottom: 12px;
-padding-top: 12px
+padding-bottom: 10px;
+padding-top: 10px
 }
 
 
