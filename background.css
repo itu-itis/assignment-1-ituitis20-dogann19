@@ -21,14 +21,22 @@ height: 100px;
 box-sizing: border-box;
 }
 
-.header {
+footer {
+font-family: serif;
+padding: 10px;
+text-align: center;
+background-color: #00b8e6;
+color: white;
+}
+
+header {
 font-family: sans-serif;
 padding: 20px;
 text-align: center;
 background: white;
  }
 
-.header h1 {
+header h1 {
 font-family: sans-serif;
 color: RoyalBlue;
 font-size: 30px;
@@ -62,12 +70,11 @@ margin-top: 20px;
 }
 
 
-   .row: after {
-   content: "";
-   display: table;
-   clear: both;
-    }
-
+  section:after{
+content: "";
+display: table;
+clear: both;
+}
 
   .rightcolumn {
    padding-left: 10px;
