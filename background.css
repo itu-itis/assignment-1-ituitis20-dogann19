@@ -6,7 +6,7 @@ background: #f1f1f1;
 
 p {
 text-indent: 20px;
-font-family: sans-serif;
+font-family: Arial, sans-serif;
 font-size: 17px;
 }
 
@@ -22,7 +22,7 @@ box-sizing: border-box;
 }
 
 footer {
-font-family: serif;
+font-family: "Times New Roman", serif;
 padding: 5px;
 text-align: center;
 background-color: #666666;
