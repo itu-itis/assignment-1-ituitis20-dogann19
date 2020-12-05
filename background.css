@@ -23,7 +23,7 @@ box-sizing: border-box;
 
 footer {
 font-family: "Times New Roman", serif;
-padding: 5px;
+margin-top: px;
 text-align: center;
 background-color: #666666;
 color: white;
@@ -38,7 +38,7 @@ background: white;
 
 header h1 {
 font-family: sans-serif;
-color: RoyalBlue;
+color: DarkGreen;
 font-size: 30px;
 }
 
