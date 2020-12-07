@@ -43,22 +43,16 @@ font-size: 30px;
 }
 
 
-.topnav {
+nav {
 overflow: hidden;
 background-color: Crimson;
-}
-
-.topnav a {
-
 float: left;
 display: block;
 color: #f2f2f2;
 text-align: center;
 padding: 14px 20px;
-text-decoration: none;
 }
-
-.topnav a:active {
+nav:active {
 background-color: #f2f2f2;
 color: black;
 }
