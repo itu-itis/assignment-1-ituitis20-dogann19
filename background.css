@@ -79,7 +79,7 @@ clear: both;
 
    .leftcolumn{
    margin-top: 20px;
-   margin-bottom: 30px;
+   margin-bottom: 10px;
    background: white;
    float: left;
    width: 25%;
@@ -92,6 +92,7 @@ clear: both;
    color: white;
    padding: 1px;
    text-align: center;
+   margin-top: 8px;
    }
 
    .thirdmain {
@@ -100,6 +101,7 @@ clear: both;
    color: white;
    padding: 1px;
    text-align: center;
+   margin-top: 8px;
     }
 
    .fourthmain {
@@ -108,6 +110,7 @@ clear: both;
    color: white;
    padding: 1px;
    text-align: center;
+   margin-top: 8px;
    }
 
   a.one:link, a.one:visited {
